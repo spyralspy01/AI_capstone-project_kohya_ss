@@ -2,9 +2,6 @@
 
 The project is about adding command line automation to Koyha's stable diffustion fine tunnings. 
 
-By: Zackary Hopkins, Nithish Maley, Surya Dendukuru
-
-
 Here are the softwear versions we used to run this on a linx 
 * Python Version: 3.10.12
 * Cuda Version: 11.4
