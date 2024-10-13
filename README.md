@@ -4,7 +4,6 @@ The project is about adding command line automation to Koyha's stable diffustion
 
 By: Zackary Hopkins, Nithish Maley, Surya Dendukuru
 
-[Link](https://docs.google.com/presentation/d/1LYh7AD-wfc8BU77FLVdASIxkENsxsa_fGWVj8gc4bh4/edit?usp=sharing) to our final presentation about this project
 
 Here are the softwear versions we used to run this on a linx 
 * Python Version: 3.10.12
